@@ -25,5 +25,4 @@ Route::group(['get','post'],function(){
     Route::get('eloquent-orm','StudentController@eloquentORM');
 
     Route::get('model','StudentController@model');
-
 });

@@ -182,6 +182,7 @@ class StudentController extends Controller
       $updateRaw = Student::where('id','>',18)
       -> update(['age'=> 23]);
       dd($updateRaw);
+      
     }
 
 }

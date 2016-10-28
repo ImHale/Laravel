@@ -1,0 +1,11 @@
+{
+    "name": "dev/hale",
+    "description": "composer",
+    "authors": [
+        {
+            "name": "ImHale",
+            "email": "aspirant_8@163.com"
+        }
+    ],
+    "require": {}
+}

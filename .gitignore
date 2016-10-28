@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Node rules:
 ## Grunt intermediate storage (http://gruntjs.com/creating-plugins#storing-task-files)
 .grunt
@@ -14,3 +15,35 @@ _book
 *.epub
 *.mobi
 *.pdf
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+/vendor
+/node_modules
+/public/storage
+Homestead.yaml
+Homestead.json
+.env
+=======
+=======
+>>>>>>> c7de59a411ea6be747be62ad779257ce24a553ff
+vendor/
+node_modules/
+
+# Laravel 4 specific
+bootstrap/compiled.php
+app/storage/
+
+# Laravel 5 & Lumen specific
+bootstrap/cache/
+.env.*.php
+.env.php
+.env
+
+# Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
+.rocketeer/
+<<<<<<< HEAD
+>>>>>>> cee55cb57076091fe75cea8604306eb27f71b83d
+=======
+>>>>>>> c7de59a411ea6be747be62ad779257ce24a553ff
+>>>>>>> b685e6fc57d33cf1852ad2a7c5e4b383ea7a0356

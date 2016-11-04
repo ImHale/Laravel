@@ -1,0 +1,1 @@
+O:6:"Person":2:{s:4:"name";s:4:"Hale";s:3:"sex";s:3:"男";}

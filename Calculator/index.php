@@ -44,7 +44,7 @@
             echo $shape -> name ."的面积为: ".$shape -> area()."<br>";
             echo $shape -> name ."的周长为: ".$shape -> zhou()."<br>";
           }
-  
+
             // echo $_GET['action'];
 
           }
@@ -54,7 +54,6 @@
         {
             echo "请选择一个要计算的图形! <br>";
         }
-
        ?>
 
   </body>
